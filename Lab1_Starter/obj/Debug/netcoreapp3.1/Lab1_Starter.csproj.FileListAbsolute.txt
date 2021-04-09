@@ -1,0 +1,12 @@
+/Users/liubo/C#Projects/lab1/Lab1_Starter/bin/Debug/netcoreapp3.1/Lab1_Starter.deps.json
+/Users/liubo/C#Projects/lab1/Lab1_Starter/bin/Debug/netcoreapp3.1/Lab1_Starter.runtimeconfig.json
+/Users/liubo/C#Projects/lab1/Lab1_Starter/bin/Debug/netcoreapp3.1/Lab1_Starter.runtimeconfig.dev.json
+/Users/liubo/C#Projects/lab1/Lab1_Starter/bin/Debug/netcoreapp3.1/Lab1_Starter.dll
+/Users/liubo/C#Projects/lab1/Lab1_Starter/bin/Debug/netcoreapp3.1/Lab1_Starter.pdb
+/Users/liubo/C#Projects/lab1/Lab1_Starter/obj/Debug/netcoreapp3.1/Lab1_Starter.csprojAssemblyReference.cache
+/Users/liubo/C#Projects/lab1/Lab1_Starter/obj/Debug/netcoreapp3.1/Lab1_Starter.AssemblyInfoInputs.cache
+/Users/liubo/C#Projects/lab1/Lab1_Starter/obj/Debug/netcoreapp3.1/Lab1_Starter.AssemblyInfo.cs
+/Users/liubo/C#Projects/lab1/Lab1_Starter/obj/Debug/netcoreapp3.1/Lab1_Starter.csproj.CoreCompileInputs.cache
+/Users/liubo/C#Projects/lab1/Lab1_Starter/obj/Debug/netcoreapp3.1/Lab1_Starter.dll
+/Users/liubo/C#Projects/lab1/Lab1_Starter/obj/Debug/netcoreapp3.1/Lab1_Starter.pdb
+/Users/liubo/C#Projects/lab1/Lab1_Starter/obj/Debug/netcoreapp3.1/Lab1_Starter.genruntimeconfig.cache

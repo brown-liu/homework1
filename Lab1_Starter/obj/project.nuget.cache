@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JUgGxMedBNrCOUh5nlBeRCrXGrJh3brcIwjliI3Mll1x/XJ+arK0w/J+TQlYKHjeUIZRqXUZ+rmlLZTveCOsVQ==",
+  "dgSpecHash": "I0WUawKIBxx7dLpktooe4iDN124R3Y2GJyJ0ltrmCD8x5xCifdwJOWsP98TJMZOP9vtbtTtY6EB6vJlp8B3DSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jscho\\Documents\\GitHub\\6426-lab1-starter\\Lab1_Starter\\Lab1_Starter\\Lab1_Starter.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/liubo/C#Projects/lab1/Lab1_Starter/Lab1_Starter.csproj",
+  "expectedPackageFiles": [
+    "/Users/liubo/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
   "logs": []
 }
